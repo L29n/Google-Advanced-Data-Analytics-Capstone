@@ -18,4 +18,6 @@ The XGBoost Model Results (the best performing model of the three) including the
    macro avg       0.98      0.96      0.97      2998
 weighted avg       0.98      0.98      0.98      2998
 
+Above is the classifcation report
+
 
