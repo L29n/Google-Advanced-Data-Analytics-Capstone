@@ -7,3 +7,6 @@ The XGBoost Model Results (the best performing model of the three) including the
 
 ![Untitled](https://github.com/L29n/Google-Advanced-Data-Analytics-Capstone/assets/114021216/256b5b6e-ba1e-49ea-896b-c324911add63)
 
+![Untitled](https://github.com/L29n/Google-Advanced-Data-Analytics-Capstone/assets/114021216/8cab2e1b-dbd8-4f9b-89a8-e707112b42db)
+
+
