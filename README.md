@@ -15,8 +15,8 @@ The XGBoost Model Results (the best performing model of the three) including the
            1       0.96      0.93      0.95       472
 
     accuracy                           0.98      2998
-    macro avg       0.98      0.96      0.97      2998
-    weighted avg       0.98      0.98      0.98      2998
+    macro avg      0.98      0.96      0.97      2998
+    weighted avg   0.98      0.98      0.98      2998
 
 Above is the classifcation report
 
