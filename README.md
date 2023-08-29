@@ -9,4 +9,13 @@ The XGBoost Model Results (the best performing model of the three) including the
 
 ![Untitled](https://github.com/L29n/Google-Advanced-Data-Analytics-Capstone/assets/114021216/8cab2e1b-dbd8-4f9b-89a8-e707112b42db)
 
+     precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99      2526
+           1       0.96      0.93      0.95       472
+
+    accuracy                           0.98      2998
+   macro avg       0.98      0.96      0.97      2998
+weighted avg       0.98      0.98      0.98      2998
+
 
